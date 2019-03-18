@@ -49,6 +49,11 @@ textarea {
     
   }
 
+.borderDiv{
+    border-top: 2px solid;
+    margin:10px 0px 3px 0px;
+}
+
 .corpo{
 
     padding: 3.8% 6%;
@@ -70,8 +75,9 @@ textarea {
 }
 
 .title {
-    padding: 80px 490px 80px;
+    padding: 80px 250px 80px;
     margin-top: 0.1%;
+    margin-left:10%;
     border:2px solid;
     list-style:none; 
     float:left;
