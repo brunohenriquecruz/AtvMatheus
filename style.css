@@ -23,6 +23,42 @@ footer{
     border-color: black     
 }
 
+form{
+    clear: both;
+    padding: 80px 80px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border:2px solid;
+    list-style:none; 
+    float:left;
+    padding-right: 10%
+}
+
+input {
+    width: 100%;
+    padding: 12px 150px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 400px;
+    height: 200px;
+    padding: 12px 20px;
+    
+  }
+
+.campo{
+
+    padding: 30px 80px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border:2px solid;
+    list-style:none; 
+    float:right;
+    padding-right: 10%
+}
+
 .menu {
     padding: 80px 80px;
     margin-top: 0.1%;
@@ -33,7 +69,7 @@ footer{
 }
 
 .title {
-    padding: 80px 80px;
+    padding: 80px 490px 80px;
     margin-top: 0.1%;
     border:2px solid;
     list-style:none; 
@@ -43,14 +79,15 @@ footer{
 }
 
 .photo {
-    clear: both;
-    width: 10%;
-    height: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 28.5%;
+    height: 29%;
     margin-top: 0.1%;
     margin-right: 7px;
     border:2px solid;
     list-style:none; 
-    float:right;
+    float:initial;
 }
 
 .conteiner{
