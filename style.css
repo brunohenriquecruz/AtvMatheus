@@ -1,5 +1,6 @@
-div{  
-    margin: 3px;
+div{
+    margin-left: 1px;
+    margin-right: 1px;
 }
 
 img{
@@ -48,9 +49,9 @@ textarea {
     
   }
 
-.campo{
+.corpo{
 
-    padding: 30px 80px;
+    padding: 3.8% 6%;
     margin-top: 2%;
     margin-bottom: 2%;
     border:2px solid;
