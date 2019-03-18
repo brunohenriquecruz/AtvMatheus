@@ -15,6 +15,7 @@ img{
 footer{
     background:rgb(236, 231, 231);
     border-top:2px solid;
+    text-align: center;
     clear:both;
     height:100px;
     padding:5px 0;
